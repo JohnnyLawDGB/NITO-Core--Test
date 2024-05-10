@@ -16,7 +16,7 @@ Nito Core connects to the Nito peer-to-peer network to download and fully valida
 
 ***Max Total Supply:*** 2.6 Billion Nito in ±200 Years.
 
-***Block Subsidy Halving:*** ±40 years - 21024000 Blocks  
+***Block Subsidy Halving:*** ±40 years ( 21024000 Blocks )
 
 ***Block Reward:*** 64 Nito
 
